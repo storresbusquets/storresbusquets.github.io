@@ -1,6 +1,6 @@
 ## Hi there, I'm Santiago Torres Busquets 👋
 
-Welcome to my GitHub profile! I'm Santiago, an aspiring data scientist with a passion for machine learning, deep learning, natural language processing (NLP), and artificial intelligence. I'm currently pursuing my MSc in Data Science at the Universidad Complutense de Madrid. In addition to my data science journey, I'm also enthusiastic about web development.
+Welcome to my GitHub profile!
 
 ### 🔭 My Interests
 - Machine Learning
