@@ -13,4 +13,4 @@ Welcome to my GitHub profile!
 Feel free to reach out to me through the following channels:
 - GitHub: [storresbusquets](https://github.com/storresbusquets)
 - LinkedIn: [Santiago Torres Busquets](https://www.linkedin.com/in/santiago-torres-busquets/)
-- email: ([](storresbusquets@gmail.com)
+- Email: [email](storresbusquets@gmail.com)
